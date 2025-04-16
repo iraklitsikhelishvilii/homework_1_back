@@ -35,6 +35,20 @@
 // let arr2 = [23, 14, 53, 17, 80];
 // getLargerNumbers(arr1, arr2); // Returns [23, 64, 53, 17, 88]
 
+// let arr1 = [13, 64, 15, 17, 88];
+// let arr2 = [23, 14, 53, 17, 80];
+// function getLargerNumbers(arr1, arr2) {
+//   let arr = [];
+
+//   for (let i = 0; i < arr1.length; i++) {
+//     arr.push(Math.max(arr1[i], arr2[i]));
+//   }
+
+//   return arr;
+// }
+
+// console.log(getLargerNumbers(arr1, arr2));
+
 // 5) const characters = [
 //   {
 //     name: "Luke Skywalker",
@@ -113,7 +127,7 @@
 //   return tot;
 // }, {});
 
-// console.log(EyeColors); 
+// console.log(EyeColors);
 
 // 6) const movies = [
 //   { title: "Inception", year: 2010, rating: 8.8 },
